@@ -1,5 +1,5 @@
 - 👋 Hello, My name is Vishal Vishwakarma.
-- 👀 I’m interested in Web development and Data Structure and Algorithm.
+- 👀 I’m interested in Web development and DSA.
 - 🌱 I’m currently learning DSA using C++.
 - 💞️ I’m looking to collaborate on Helping Each Other.
 - 📫 How to reach me : LinkedIn:- vishal273007.
